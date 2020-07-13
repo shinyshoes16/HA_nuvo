@@ -1,0 +1,7 @@
+{
+  "domain": "nuvo",
+  "name": "Nuvo",
+  "requirements": [
+    "pynuvo==0.2"
+  ]
+}
